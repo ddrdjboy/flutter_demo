@@ -1,0 +1,93 @@
+{
+	"api": "mtop.alibaba.intl.buyeragent.conversation.share.query",
+	"data": {
+		"data": {
+			"msgHistoryRoundVersionDTO": {
+				"end": true,
+				"needReAsk": false,
+				"rounds": [{
+					"conversationId": "350cf749-0370-84f1-7d90-f99ae51bd85d",
+					"internalRequest": false,
+					"messages": [{
+						"agentRouter": "multi_step_agent",
+						"agentStage": "file",
+						"agentType": "sub",
+						"comment": "none",
+						"content": [{
+							"contentType": "aggregation",
+							"data": [{
+								"contentType": "summary",
+								"data": {
+									"summary": "# 2026 Shoe Brand Market Analysis: Trends, Rankings, and Consumer Insights\n\nThe 2026 footwear market is characterized by a definitive shift toward \"sleek sports\" silhouettes and \"gorpcore\" utility, moving away from the previously dominant chunky \"dad shoe\" aesthetic. Consumers are increasingly prioritizing technical performance alongside versatile, minimal designs. <cite>[Harpersbazaar](https://www.harpersbazaar.com/fashion/trends/a70280426/sneaker-trends-2026/)</cite><cite>[Whowhatwear](https://www.whowhatwear.com/fashion/shoes/trending-trainer-brands-2026)</cite>\n\n## 1. Market Scope & Key Segments\n\nThe current landscape is divided into four high-momentum segments that define brand success this year:\n\n*   **Sleek Sport & Slim Runners**: Low-profile, early-2000s archival designs emphasizing \"archival sprint\" aesthetics over bulk. <cite>[Harpersbazaar](https://www.harpersbazaar.com/fashion/trends/a70280426/sneaker-trends-2026/)</cite>\n*   **Gorpcore Evolution**: High-performance trail and hiking gear transitioning into everyday street style, with a focus on \"utility\" and \"protection.\" <cite>[Righsize](https://www.righsize.com/blog/top-shoe-brand-trends-2026)</cite><cite>[Gqmiddleeast](https://www.gqmiddleeast.com/article/the-sneakers-set-to-dominate-2026-according-to-experts)</cite>\n*   **Performance Comfort**: A \"comfort-maxxing\" trend where technical energy-return and \"cloudlike\" cushioning are mandatory for daily wear. <cite>[Outdoorgearlab](https://www.outdoorgearlab.com/topics/shoes-and-boots/best-running-shoes)</cite><cite>[Glamour](https://www.glamour.com/story/sneaker-trends-2026)</cite>\n*   **Barefoot & Minimalist**: A growing health-conscious niche focusing on natural foot movement and wide toe boxes. <cite>[Reddit](https://www.reddit.com/r/femalefashionadvice/comments/1qccwo2/what_are_still_reliable_brands_for_athletic_shoes/)</cite>\n\n## 2. Trend Candidate Pool (2026)\n\nThe following brands have shown significant momentum across social media signals, search volume, and expert endorsements:\n\n| Brand | Primary Signal | Key Models / Trends |\n| :--- | :--- | :--- |\n| **Salomon** | #1 Search Volume Surge | XT-6, Gorpcore <cite>[Righsize](https://www.righsize.com/blog/top-shoe-brand-trends-2026)</cite> |\n| **Adidas** | High Ownership & Revival | SL 72, Japan, Samba <cite>[Whowhatwear](https://www.whowhatwear.com/fashion/shoes/trending-trainer-brands-2026)</cite> |\n| **Asics** | Performance Benchmark | Novablast 5, Gel-Kayano <cite>[Outdoorgearlab](https://www.outdoorgearlab.com/topics/shoes-and-boots/best-running-shoes)</cite> |\n| **Puma** | Rapid Trend Velocity | Speedcat, Palermo <cite>[Harpersbazaar](https://www.harpersbazaar.com/fashion/trends/a70280426/sneaker-trends-2026/)</cite><cite>[Glamour](https://www.glamour.com/story/sneaker-trends-2026)</cite> |\n| **New Balance** | Consistent Trust | Fresh Foam X 1080v14, 530 <cite>[Facebook](https://www.facebook.com/retailboss/posts/this-rb-insight-ranks-the-top-10-most-popular-sneaker-brand-websites-worldwide-b/1532846532180577/)</cite> |\n| **On** | Growth in Functional Chic | Cloudtilt, Cloudrunner <cite>[Whowhatwear](https://www.whowhatwear.com/fashion/shoes/trending-trainer-brands-2026)</cite> |\n| **Miu Miu** | Luxury Cult Status | Plume Satin, Collabs <cite>[Elle](https://www.elle.com/fashion/shopping/g42445302/best-cool-sneakers/)</cite> |\n| **Hoka** | Utility & Value King | Mach 6, Support focus <cite>[People](https://people.com/allswifit-activebreeze-sneakers-deal-amazon-2026-11906366)</cite> |\n\n## 3. Top Picks Scorecard\n\nTop brands are ranked based on demand velocity (30%), trend durability (20%), competitive gap/VoC (30%), and channel-fit (20%).\n\n| Rank | Brand | Score | Rationale |\n| :--- | :--- | :--- | :--- |\n| 1 | **Salomon** | 4.5 | Unmatched \"Gorpcore\" search interest; perfect for street-to-trail. <cite>[Righsize](https://www.righsize.com/blog/top-shoe-brand-trends-2026)</cite> |\n| 2 | **Asics** | 4.4 | \"Best Overall\" performance ranking for Novablast 5; high comfort loyalty. <cite>[Outdoorgearlab](https://www.outdoorgearlab.com/topics/shoes-and-boots/best-running-shoes)</cite> |\n| 3 | **Adidas** | 4.2 | Successfully pivoting from \"Samba fatigue\" to the \"next\" slim runner. <cite>[Whowhatwear](https://www.whowhatwear.com/fashion/shoes/trending-trainer-brands-2026)</cite><cite>[Glamour](https://www.glamour.com/story/sneaker-trends-2026)</cite> |\n| 4 | **Puma** | 4.1 | Leading the \"Sneakerina\" and sleek sport revival with Speedcat. <cite>[Harpersbazaar](https://www.harpersbazaar.com/fashion/trends/a70280426/sneaker-trends-2026/)</cite> |\n| 5 | **New Balance** | 4.0 | The \"gold standard\" for reliability and wide-fit comfort. <cite>[Reddit](https://www.reddit.com/r/femalefashionadvice/comments/1qccwo2/what_are_still_reliable_brands_for_athletic_shoes/)</cite> |\n\n## 4. Deep Dive Analysis: The \"Big Five\"\n\n### Salomon — The Gorpcore Giant\nSalomon has transitioned from a niche trail brand to the most searched footwear brand of 2026. Experts highlight the **XT-6** and **Ultra Glide 4** as essential for the \"utility\" aesthetic.\n*   **VoC Wedge**: While highly praised for style, consumers frequently report sizing frustrations, particularly with narrow fits. <cite>[Righsize](https://www.righsize.com/blog/top-shoe-brand-trends-2026)</cite>\n*   **Verdict**: **Go** — High demand makes this a low-risk inventory choice for trend-focused retailers.\n\n### Asics — The Comfort Benchmark\nRanked \"Best Overall\" by performance testers, Asics has capitalized on the demand for high energy-return foam.\n*   **VoC Wedge**: The **Novablast 5** is lauded for \"cloudlike softness,\" making it a favorite for \"daily commuters\" and runners alike. <cite>[Outdoorgearlab](https://www.outdoorgearlab.com/topics/shoes-and-boots/best-running-shoes)</cite>\n*   **Verdict**: **Go** — Strongest brand for repeat purchases based on performance.\n\n### Adidas — The Archival Pivot\nAs the market reaches \"Samba fatigue,\" Adidas is successfully pushing the **SL 72** and **Japan** models.\n*   **VoC Wedge**: Consumers are looking for the \"next slim runner\" that isn't as ubiquitous as the Samba. The **Japan** model is currently the expert-favored alternative. <cite>[Whowhatwear](https://www.whowhatwear.com/fashion/shoes/trending-trainer-brands-2026)</cite><cite>[Glamour](https://www.glamour.com/story/sneaker-trends-2026)</cite>\n*   **Verdict**: **Cautious-Go** — High volume but requires careful model selection to avoid fading trends.\n\n### Puma — The Sleek Revivalist\nPuma is at the forefront of the \"low-profile\" movement. The **Speedcat** revival (including ballet-hybrid variants) is a \"Gen Z fixation.\" <cite>[Harpersbazaar](https://www.harpersbazaar.com/fashion/trends/a70280426/sneaker-trends-2026/)</cite>\n*   **VoC Wedge**: Its distinct, sleek look offers a clear alternative to technical runners, though its niche aesthetic may limit mass-market reach compared to Asics.\n*   **Verdict**: **Go** — High content potential for social media marketing.\n\n### Hoka — The Support Specialist\nHoka remains the \"support king,\" particularly on platforms like Amazon where comfort reviews are the primary driver of sales.\n*   **VoC Wedge**: Hoka fans emphasize \"amazing support\" for walking, though the \"clunky\" look remains a point of contention for fashion purists. <cite>[People](https://people.com/allswifit-activebreeze-sneakers-deal-amazon-2026-11906366)</cite><cite>[People](https://people.com/amazon-best-selling-sneakers-under-60-january-2026-11882872)</cite>\n*   **Verdict**: **Go** — Extremely stable demand among demographics prioritizing foot health.\n\n## 5. Niche Opportunity: Barefoot & Minimalist\n\nSearch volume for \"wide toe box\" and \"minimalist sneakers\" is steadily rising, especially among health-conscious and parents' segments. \n\nExamples of high-performing barefoot and minimalist footwear include:\n",
+									"type": "all"
+								}
+							}, {
+								"contentType": "summary",
+								"data": {
+									"summary": "| Product Title | Image | Price | Sales Volume (Latest Month) | Source |\n| --- | --- | --- | --- | --- |\n| [WHITIN Toddler Shoes Boys/Girls Barefoot Kid Wide ...](https://www.amazon.com/dp/B0D66Q1QC1) | ![product](https://sc01.alicdn.com/kf/Aca8b225cf9af469dacaf04f35e5f697fa.jpg) | $39.99 | 3354 | AMAZON |\n| [SAGUARO Barefoot Shoes Women Wide Toe Box Trail Ru...](https://www.amazon.com/dp/B08T6HH12Q) | ![product](https://sc01.alicdn.com/kf/Ae8a86716a39c47dc859cd606276d0a7am.jpg) | $41.99 | 2312 | AMAZON |\n| [Universal Stripe Fabric Fitness Shoes - Breathable...](https://www.temu.com/indoor-fitness-shoes-outdoor-wading-shoes-beach-tracing-shoes-g-601099562885254.html?&_oak_mp_inf=EIbBrq%2Bm1ogBGi5jYXRlZ29yeV9saXN0XzIyMWFiYjJhZTBiNzQ4ZGNiZTA2OWY2YzQyMGRmMGQ2IKSRkZKLMg%3D%3D&top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F0b26638b-6807-429f-99ff-97c230b881af.jpg&spec_gallery_id=2111734348&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=MTU2MA&_oak_gallery_order=1091679808%2C1353192219%2C1658276465%2C931070161%2C1436273845) | ![product](https://sc01.alicdn.com/kf/A68a3585378264f6ba3a1e79d234ddc13q.jpg) | $15.6 | 8400 | AMAZON |\n| [NORTIV 8 Men's Water Shoes Barefoot Athletic Light...](https://us.shein.com/detail-p-87967681-cat-8607.html) | ![product](https://sc01.alicdn.com/kf/Ab4e05b6768ab4187a110515d4222c673K.jpg) | $40.39 | 24 | AMAZON |",
+									"type": "all"
+								}
+							}, {
+								"contentType": "summary",
+								"data": {
+									"summary": "\n\n## 6. Consumer Voice (VoC) Patterns\n\n*   **Sizing Frustration**: Across all brands, \"brand-specific sizing\" is a major pain point. Consumers are actively seeking conversion tools to manage fit differences between Nike, Salomon, and Asics. <cite>[Righsize](https://www.righsize.com/blog/top-shoe-brand-trends-2026)</cite>\n*   **The \"Wedge\" Opportunity**: Brands that offer **wide-fit options** (like New Balance and Altra) or **superior energy-return** (Asics) are seeing higher \"loyalty scores\" compared to purely aesthetic brands. <cite>[Reddit](https://www.reddit.com/r/femalefashionadvice/comments/1qccwo2/what_are_still_reliable_brands_for_athletic_shoes/)</cite><cite>[Outdoorgearlab](https://www.outdoorgearlab.com/topics/shoes-and-boots/best-running-shoes)</cite>\n\n## 7. Strategic Recommendations\n\n1.  **Prioritize Utility & Performance**: The \"Gorpcore\" trend (Salomon, Asics) shows the most durable 2026 outlook.\n2.  **Monitor the \"Slim Runner\" Shift**: Ensure inventory includes low-profile archival designs (Puma Speedcat, Adidas SL 72) to capture the post-Samba audience.\n3.  **Invest in \"Comfort-Maxxing\"**: Stock high-support brands (Hoka, New Balance) for the massive \"walking shoe\" and \"daily commuter\" market.\n\n### Summary of Visual Trends for Spring 2026:\nExpert-curated sneaker trends include white plimsolls, slim runners, and gorpcore hikers:\n",
+									"type": "all"
+								}
+							}, {
+								"contentType": "summary",
+								"data": {
+									"summary": "| Product Title | Image | Price | Sales Volume (Latest Month) | Source |\n| --- | --- | --- | --- | --- |\n| [Toddler/Boys/Girls Barefoot Shoes Kid Wide Width S...](https://us.shein.com/detail-p-63804395-cat-3192.html) | ![product](https://sc01.alicdn.com/kf/Ab1a1a92b302240508359a348c9be1d5fj.jpg) | $32.7 | 0 | AMAZON |\n| [Children's Barefoot Wide-Toe Sneakers for Boys and...](https://www.temu.com/flexible-non-slip-breathable-mesh-footwear-for-boys-girls-ideal-for--suitable-for--g-601099732951596.html?&_oak_mp_inf=EKzEuoCn1ogBGi5jYXRlZ29yeV9saXN0XzAxYTNmNzVlMjYyMjQwMDdiMmJkOWIyN2I4OWZiMjdhIKaImurFMw%3D%3D&top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F83ad3bc2-71a5-4f4d-bb4e-4e1e4d0ce261.jpg&spec_gallery_id=2740738984&refer_page_sn=10012&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=MTIxMg) | ![product](https://sc01.alicdn.com/kf/Aad876afd3d5940fa9c64e91b7be6d4720.jpg) | $12.12 | 15000 | AMAZON |\n| [Women Reserve Tall Boots, Flat Low Heel Stretchy K...](https://us.shein.com/detail-p-42733924-cat-8507.html) | ![product](https://sc01.alicdn.com/kf/Aa27d4040fb244a4aba11ec5d9196daf1j.jpg) | $24.2 | 9489 | AMAZON |\n| [Womens Knee High Boots Round Toe Chunky Block Heel...](https://www.temu.com/1pr--holy-womens-knee-high-suede-boots-with-chunky-block-heels-casual-round-toe-zip-up--leather-lining-winter-booties-g-601099740994619.html?&_oak_mp_inf=ELu4pYSn1ogBGi5jYXRlZ29yeV9saXN0XzU1ZDAxYjA4OTAxODQzMWU5MzlmMzUwODEyNjFjOGE1IPLbzPz2Mg%3D%3D&top_gallery_url=https%3A%2F%2Fimg.kwcdn.com%2Fproduct%2Ffancy%2F4edecb7a-faa2-4fdc-bd5d-b875d2b99bea.jpg&spec_gallery_id=2690559113&refer_page_sn=10012&refer_source=0&freesia_scene=3&_oak_freesia_scene=3&_oak_rec_ext_1=NDMxOQ) | ![product](https://sc01.alicdn.com/kf/A82230d2f33b54b9b86c69660c2e54abfJ.jpg) | $43.19 | 5400 | AMAZON |",
+									"type": "all"
+								}
+							}, {
+								"contentType": "summary",
+								"data": {
+									"summary": "\n",
+									"type": "all"
+								}
+							}],
+							"version": "1.0"
+						}],
+						"contentType": "component",
+						"conversationId": "350cf749-0370-84f1-7d90-f99ae51bd85d",
+						"language": "en",
+						"msgId": "565f58ea626b87637bd26157d9851af1_node_0c206bd2-fc47-418d-a782-ff3d32524305@0",
+						"partitionId": "node_0c206bd2-fc47-418d-a782-ff3d32524305",
+						"questionType": "v3_search",
+						"requestId": "AI_iOS_3500018366144_1773189533689",
+						"role": "agent",
+						"timestamp": 1773189598877,
+						"version": "3.0"
+					}],
+					"questionType": "v3_search",
+					"requestId": "AI_iOS_3500018366144_1773189533689",
+					"roundId": "ac5f1e60fdebcad22b20f74efabb1813",
+					"timestamp": 1773189537000,
+					"version": "3.0"
+				}]
+			},
+			"shareDTO": {
+				"conversationId": "350cf749-0370-84f1-7d90-f99ae51bd85d",
+				"country": "US",
+				"currency": "USD",
+				"deviceId": "aa+KsqyUZMIDADUGXCY3atxK",
+				"effectiveDuration": -1,
+				"extra": {
+					"imageUrl": "https://s.alicdn.com/@img/imgextra/i1/O1CN016ebECC1b204qxQYMK_!!6000000003406-2-tps-224-64.png",
+					"title": "Shoe Brand Analysis Report"
+				},
+				"language": "en",
+				"msgIdList": ["node_0c206bd2-fc47-418d-a782-ff3d32524305"],
+				"shareId": "b9b4ac7ac68a4db49c65be784ae38819",
+				"shareType": "result_share",
+				"shareUrl": "https://www.accio.com/result/b9b4ac7ac68a4db49c65be784ae38819?shareType=result_share",
+				"userId": "3500018366144"
+			}
+		},
+		"responseCode": "200",
+		"responseMsg": "ok"
+	},
+	"ret": ["SUCCESS::调用成功"],
+	"traceId": "210177f217731971767215730e0fd1",
+	"v": "1.0"
+}
